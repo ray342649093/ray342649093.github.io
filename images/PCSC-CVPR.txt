@@ -1,0 +1,7 @@
+@inproceedings{su2019improving,
+  title={Improving action localization by progressive cross-stream cooperation},
+  author={Su, Rui and Ouyang, Wanli and Zhou, Luping and Xu, Dong},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={12016--12025},
+  year={2019}
+}

@@ -1,0 +1,7 @@
+@article{su2020progressive,
+  title={Progressive Cross-stream Cooperation in Spatial and Temporal Domain for Action Localization},
+  author={Su, Rui and Xu, Dong and Zhou, Luping and Ouyang, Wanli},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  publisher={IEEE}
+}
